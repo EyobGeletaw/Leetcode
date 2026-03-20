@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/EyobGeletaw/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/EyobGeletaw/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/EyobGeletaw/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
