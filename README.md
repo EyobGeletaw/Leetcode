@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/EyobGeletaw/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/EyobGeletaw/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/EyobGeletaw/Leetcode/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/EyobGeletaw/Leetcode/tree/master/0343-integer-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/EyobGeletaw/Leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/EyobGeletaw/Leetcode/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
