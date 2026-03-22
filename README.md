@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/EyobGeletaw/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/EyobGeletaw/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/EyobGeletaw/Leetcode/tree/master/0343-integer-break) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EyobGeletaw/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EyobGeletaw/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/EyobGeletaw/Leetcode/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
