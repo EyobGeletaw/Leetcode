@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/EyobGeletaw/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/EyobGeletaw/Leetcode/tree/master/0343-integer-break) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EyobGeletaw/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EyobGeletaw/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
