@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
