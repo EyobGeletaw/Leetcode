@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
 |  |
