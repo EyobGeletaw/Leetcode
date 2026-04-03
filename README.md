@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/EyobGeletaw/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EyobGeletaw/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
