@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/EyobGeletaw/Leetcode/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0343-integer-break](https://github.com/EyobGeletaw/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
