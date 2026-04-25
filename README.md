@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3206-alternating-groups-i](https://github.com/EyobGeletaw/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EyobGeletaw/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/EyobGeletaw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/EyobGeletaw/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3206-alternating-groups-i](https://github.com/EyobGeletaw/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/EyobGeletaw/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
