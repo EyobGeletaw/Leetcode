@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/EyobGeletaw/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EyobGeletaw/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/EyobGeletaw/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1051-height-checker](https://github.com/EyobGeletaw/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/EyobGeletaw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/EyobGeletaw/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/EyobGeletaw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/EyobGeletaw/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/EyobGeletaw/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EyobGeletaw/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/EyobGeletaw/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3206-alternating-groups-i](https://github.com/EyobGeletaw/Leetcode/tree/master/3206-alternating-groups-i) |
