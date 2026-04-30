@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/EyobGeletaw/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EyobGeletaw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/EyobGeletaw/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/EyobGeletaw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EyobGeletaw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/EyobGeletaw/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/EyobGeletaw/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
