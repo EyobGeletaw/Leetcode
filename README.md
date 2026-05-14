@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/EyobGeletaw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1763-longest-nice-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/EyobGeletaw/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/EyobGeletaw/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/EyobGeletaw/Leetcode/tree/master/0231-power-of-two) |
+| [1763-longest-nice-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EyobGeletaw/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1763-longest-nice-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EyobGeletaw/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/EyobGeletaw/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/EyobGeletaw/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/EyobGeletaw/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EyobGeletaw/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/EyobGeletaw/Leetcode/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
