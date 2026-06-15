@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/EyobGeletaw/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
