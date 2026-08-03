@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EyobGeletaw/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/EyobGeletaw/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/EyobGeletaw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EyobGeletaw/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/EyobGeletaw/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/EyobGeletaw/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/EyobGeletaw/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
