@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/EyobGeletaw/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/EyobGeletaw/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0202-happy-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/EyobGeletaw/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/EyobGeletaw/Leetcode/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/EyobGeletaw/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0189-rotate-array) |
