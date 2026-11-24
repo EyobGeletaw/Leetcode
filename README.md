@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/EyobGeletaw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/EyobGeletaw/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EyobGeletaw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/EyobGeletaw/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/EyobGeletaw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/EyobGeletaw/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EyobGeletaw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EyobGeletaw/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/EyobGeletaw/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/EyobGeletaw/Leetcode/tree/master/0509-fibonacci-number) |
